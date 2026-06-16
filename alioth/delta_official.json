@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 1781603006,
+      "filename": "ASCP-v5.5-alioth-OFFICIAL-20260616-0914.zip",
+      "expected_filename": "ASCP-v5.5-alioth-OFFICIAL-20260616-0914.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/alioth/ASCP-incremental-ASCP-v5.5-alioth-OFFICIAL-20260616-0914-to-ASCP-v5.5-alioth-OFFICIAL-20260616-0914.zip",
+      "md5": "cfabba64b9d5716b43f81a18802ec61c",
+      "payload": [
+        {
+          "offset": 5092,
+      "FILE_HASH": "eR2BtitYwxKSiIGJ6HxApCYdeUiin+J+bRTIDS/faYo=",
+      "FILE_SIZE": "636134",
+      "METADATA_HASH": "VUFOi1+XUex8MWjk6PhTEQ17yMmDGua2ZrnsDP50YTY=",
+      "METADATA_SIZE": "635600"
+        }
+      ]
+    }
+  ]
+}
