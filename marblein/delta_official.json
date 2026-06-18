@@ -1,18 +1,18 @@
 {
   "response": [
     {
-      "datetime": 1781717327,
-      "filename": "ASCP-v5.5-marble-OFFICIAL-20260617-1719.zip",
-      "expected_filename": "ASCP-v5.5-marble-OFFICIAL-20260617-1659.zip",
-      "url": "https://sourceforge.net/projects/project-ascp/files/marble/ASCP-incremental-marble-20260617-1659-to-20260617-1719.zip",
-      "md5": "cede6614a3ce2522fbb2fd5cafe135a1",
+      "datetime": 1781726341,
+      "filename": "ASCP-v5.5-marble-OFFICIAL-20260617-1935.zip",
+      "expected_filename": "ASCP-v5.5-marble-OFFICIAL-20260617-1719.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/marble/ASCP-incremental-marble-20260617-1719-to-20260617-1935.zip",
+      "md5": "c5008384ee17fcbc0c77ce7e8b65f3d9",
       "payload": [
         {
-          "offset": 5586,
-      "FILE_HASH": "DGUMuTVqp/MhetP9vecjhP4rQm3AykhyHUjG8TYba1w=",
-      "FILE_SIZE": "504833",
-      "METADATA_HASH": "3m1jdNxOccNWKeJ7hlFwr6TgNSRAciCy6lYfoVGUAXQ=",
-      "METADATA_SIZE": "498998"
+          "offset": 5602,
+      "FILE_HASH": "CE2IdkmXbSR8qS8rTZWqyktIybI2p5ldVV5Z1uFq3jA=",
+      "FILE_SIZE": "4069590",
+      "METADATA_HASH": "I0bofIzPXHN4JWZKMy/pD9mON09R9QCgzXpRQEehyto=",
+      "METADATA_SIZE": "497830"
         }
       ]
     }
