@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 1781855481,
+      "filename": "ASCP-v5.5-zephyr-OFFICIAL-20260619-0742.zip",
+      "expected_filename": "ASCP-v5.5-zephyr-OFFICIAL-20260619-0622.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/lisaa/ASCP-incremental-zephyr-20260619-0622-to-20260619-0742.zip",
+      "md5": "d79d7770c1417884f4c79920ae98e4ba",
+      "payload": [
+        {
+          "offset": 5842,
+      "FILE_HASH": "vRURulTQUZA7LagGCpmirWXOeq3I9EAit3DFzBo4UMI=",
+      "FILE_SIZE": "266451",
+      "METADATA_HASH": "IpGO8vJ+u6SIRHxT4dj7ZwN8gHh8QMyAJI1vN9WWSUU=",
+      "METADATA_SIZE": "252823"
+        }
+      ]
+    }
+  ]
+}
